@@ -6,7 +6,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("I am starting to get worried about this class, but that's okay because I'm just a line of code :')");
         }
     }
 }
